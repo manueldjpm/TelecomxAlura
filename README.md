@@ -24,7 +24,7 @@ El estudio se centrará en los siguientes puntos, en coherencia con los lineamie
 
 El análisis se desarrolla en un notebook de Google Colab, accesible mediante el siguiente enlace:
 
-[Notebook de Colab: Desafío Telecom X](https://colab.research.google.com/drive/1UQ_IKGTIoRR7OUVdCLIPtlyyT2H5dQI4?usp=sharing)
+[Notebook de Colab: Desafío Telecom X](https://colab.research.google.com/github/manueldjpm/TelecomxAlura/blob/main/Desafio_Telecom_X.ipynb)
 
 Para ejecutarlo correctamente:
 
